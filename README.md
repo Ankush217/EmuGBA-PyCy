@@ -31,13 +31,12 @@ A high-performance Game Boy Advance emulator written in Python and Cython, featu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/PyGBA-Cython.git
-   cd PyGBA-Cython
+   git clone https://github.com/Ankush217/EmuGBA-PyCy.git
+   cd GBA
 ````
 
 2. Build the Cython modules:
 
-   ```bash
    python setup.py build_ext --inplace
    ```
 
